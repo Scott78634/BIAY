@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 197
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for July 16
+--- or, in a leap-year, for July 17
+
+== The Old Testament reading is from: Amos 3, Amos 4
+
+Amos 3
+Amos 4
+
+== The New Testament reading is from: Romans 3:9-31
+
+Romans 3:9-31
+
+== The Wisdom Literature reading is from: Psalm 85:8-13
+
+Psalm 85:8-13
+
+=== This concludes the reading for day 197. Thank you for listening.

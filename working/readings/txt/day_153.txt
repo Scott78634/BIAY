@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 153
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for June 02
+--- or, in a leap-year, for June 03
+
+== The Old Testament reading is from: 2 Samuel 2:8-32, 2 Samuel 3:1-21
+
+2 Samuel 2:8-32
+2 Samuel 3:1-21
+
+== The New Testament reading is from: John 21:1-25
+
+John 21:1-25
+
+== The Wisdom Literature reading is from: Psalm 69:1-12
+
+Psalm 69:1-12
+
+=== This concludes the reading for day 153. Thank you for listening.

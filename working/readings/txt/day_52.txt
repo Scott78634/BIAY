@@ -1,0 +1,26 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 52
+
+If your reading is aligned with the calendar year, this is for February 21
+
+== The Old Testament reading is from: Exodus 29, Exodus 30
+
+Exodus 29
+Exodus 30
+
+== The New Testament reading is from: Mark 6:7-29
+
+Mark 6:7-29
+
+== The Wisdom Literature reading is from: Proverbs 5:15-23
+
+Proverbs 5:15-23
+
+=== This concludes the reading for day 52. Thank you for listening.

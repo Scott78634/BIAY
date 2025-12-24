@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 132
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for May 12
+--- or, in a leap-year, for May 13
+
+== The Old Testament reading is from: Judges 14, Judges 15
+
+Judges 14
+Judges 15
+
+== The New Testament reading is from: John 7:14-44
+
+John 7:14-44
+
+== The Wisdom Literature reading is from: Proverbs 11:29-31, Proverbs 12:1-7
+
+Proverbs 11:29-31
+Proverbs 12:1-7
+
+=== This concludes the reading for day 132. Thank you for listening.

@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 279
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for October 06
+--- or, in a leap-year, for October 07
+
+== The Old Testament reading is from: Jeremiah 11:18-23, Jeremiah 12, Jeremiah 13
+
+Jeremiah 11:18-23
+Jeremiah 12
+Jeremiah 13
+
+== The New Testament reading is from: Colossians 2:6-23
+
+Colossians 2:6-23
+
+== The Wisdom Literature reading is from: Psalm 118:1-16
+
+Psalm 118:1-16
+
+=== This concludes the reading for day 279. Thank you for listening.

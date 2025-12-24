@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 56
+
+If your reading is aligned with the calendar year, this is for February 25
+
+== The Old Testament reading is from: Exodus 37, Exodus 38
+
+Exodus 37
+Exodus 38
+
+== The New Testament reading is from: Mark 8:14-38, Mark 9:1
+
+Mark 8:14-38
+Mark 9:1
+
+== The Wisdom Literature reading is from: Proverbs 6:1-11
+
+Proverbs 6:1-11
+
+=== This concludes the reading for day 56. Thank you for listening.

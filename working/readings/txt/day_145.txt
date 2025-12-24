@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 145
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for May 25
+--- or, in a leap-year, for May 26
+
+== The Old Testament reading is from: 1 Samuel 16, 1 Samuel 17:1-37
+
+1 Samuel 16
+1 Samuel 17:1-37
+
+== The New Testament reading is from: John 15, John 16:1-4
+
+John 15
+John 16:1-4
+
+== The Wisdom Literature reading is from: Psalm 67:1-7
+
+Psalm 67:1-7
+
+=== This concludes the reading for day 145. Thank you for listening.

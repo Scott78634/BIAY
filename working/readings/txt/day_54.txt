@@ -1,0 +1,26 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 54
+
+If your reading is aligned with the calendar year, this is for February 23
+
+== The Old Testament reading is from: Exodus 33:7-23, Exodus 34
+
+Exodus 33:7-23
+Exodus 34
+
+== The New Testament reading is from: Mark 7:1-30
+
+Mark 7:1-30
+
+== The Wisdom Literature reading is from: Psalm 25:8-15
+
+Psalm 25:8-15
+
+=== This concludes the reading for day 54. Thank you for listening.

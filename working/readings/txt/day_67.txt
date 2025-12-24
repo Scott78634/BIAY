@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 67
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for March 08
+--- or, in a leap-year, for March 09
+
+== The Old Testament reading is from: Leviticus 17, Leviticus 18
+
+Leviticus 17
+Leviticus 18
+
+== The New Testament reading is from: Mark 14:17-42
+
+Mark 14:17-42
+
+== The Wisdom Literature reading is from: Psalm 31:9-18
+
+Psalm 31:9-18
+
+=== This concludes the reading for day 67. Thank you for listening.

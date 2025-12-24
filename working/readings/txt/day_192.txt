@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 192
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for July 11
+--- or, in a leap-year, for July 12
+
+== The Old Testament reading is from: 2 Kings 21, 2 Kings 22
+
+2 Kings 21
+2 Kings 22
+
+== The New Testament reading is from: Acts 28:17-31
+
+Acts 28:17-31
+
+== The Wisdom Literature reading is from: Proverbs 16:28-33, Proverbs 17:1-4
+
+Proverbs 16:28-33
+Proverbs 17:1-4
+
+=== This concludes the reading for day 192. Thank you for listening.

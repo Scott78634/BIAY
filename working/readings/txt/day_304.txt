@@ -1,0 +1,26 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 304
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for October 31
+--- or, in a leap-year, for November 01
+
+== The Old Testament reading is from: Obadiah 1
+
+Obadiah 1
+
+== The New Testament reading is from: Hebrews 2
+
+Hebrews 2
+
+== The Wisdom Literature reading is from: Proverbs 26:13-22
+
+Proverbs 26:13-22
+
+=== This concludes the reading for day 304. Thank you for listening.

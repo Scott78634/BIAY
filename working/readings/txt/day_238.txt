@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 238
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for August 26
+--- or, in a leap-year, for August 27
+
+== The Old Testament reading is from: 2 Chronicles 26, 2 Chronicles 27, 2 Chronicles 28
+
+2 Chronicles 26
+2 Chronicles 27
+2 Chronicles 28
+
+== The New Testament reading is from: 2 Corinthians 1:1-11
+
+2 Corinthians 1:1-11
+
+== The Wisdom Literature reading is from: Psalm 103:1-12
+
+Psalm 103:1-12
+
+=== This concludes the reading for day 238. Thank you for listening.

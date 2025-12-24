@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 114
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for April 24
+--- or, in a leap-year, for April 25
+
+== The Old Testament reading is from: Joshua 5:13-15, Joshua 6, Joshua 7
+
+Joshua 5:13-15
+Joshua 6
+Joshua 7
+
+== The New Testament reading is from: Luke 22:39-62
+
+Luke 22:39-62
+
+== The Wisdom Literature reading is from: Psalm 50:16-23
+
+Psalm 50:16-23
+
+=== This concludes the reading for day 114. Thank you for listening.

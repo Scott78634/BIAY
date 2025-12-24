@@ -1,0 +1,30 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 308
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for November 04
+--- or, in a leap-year, for November 05
+
+== The Old Testament reading is from: Ezekiel 4, Ezekiel 5, Ezekiel 6
+
+Ezekiel 4
+Ezekiel 5
+Ezekiel 6
+
+== The New Testament reading is from: Hebrews 5:11-14, Hebrews 6:1-12
+
+Hebrews 5:11-14
+Hebrews 6:1-12
+
+== The Wisdom Literature reading is from: Proverbs 26:23-28, Proverbs 27:1-4
+
+Proverbs 26:23-28
+Proverbs 27:1-4
+
+=== This concludes the reading for day 308. Thank you for listening.

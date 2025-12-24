@@ -17,62 +17,47 @@ CSV_DATA_FILE="csv_data.txt"
 # $1: The reading day number (1-366)
 function get_calendar_info() {
     local day_num=$1
-    local non_leap_date non_leap_text leap_date leap_text
+    local non_leap_date non_leap_text leap_date_display leap_text=""
 
     # --- 1. Calculate Non-Leap Date (Jan 1 = Day 1) ---
     # Using %d instead of %-d for cross-platform compatibility.
     non_leap_date=$(date -d "Jan 1 + $((day_num - 1)) days" +"%B %d")
 
-    # --- 2. Calculate Leap Date (Handle 29th Feb shift) ---
+    # --- 2. Format Conditional Output Text ---
+
     if (( day_num <= 59 )); then
-        # Day 1 (Jan 1) through Day 59 (Feb 28) are the same in both years.
-        leap_date=$non_leap_date
+        # Case 1: Jan 1 - Feb 28. Dates are the same in both years.
+        # We only need the simple sentence.
+        echo "If your reading is aligned with the calendar year, this is for $non_leap_date"
+        return
+
     elif (( day_num == 60 )); then
-        # Day 60 is Feb 29th in a leap year.
-        leap_date="February 29"
-    else
-        # Days 61 and higher
-        leap_date=$(date -d "Jan 1 + $((day_num - 1)) days" +"%B %d")
-    fi
+        # Case 2: Reading day 60 (corresponds to Feb 29 in a leap year).
+        non_leap_text="If your reading is aligned with the calendar year in a non-leap-year, this is for March 01"
+        leap_text="or, in a leap-year, for February 29"
 
-    # --- 3. Format Conditional Output Text ---
-
-    if (( day_num <= 59 )); then
-        # Jan 1 - Feb 28
-        non_leap_text="If your reading is aligned with the calendar year, this is for $non_leap_date"
     else
-        # Feb 29 onwards
-        if (( day_num == 60 )); then
-            # Feb 29 only in leap years
-            non_leap_text="If your reading is aligned with the calendar year in a non-leap-year, this is for March 01"
-            leap_text="or, in a leap-year, for February 29"
+        # Case 3: March 1 onwards (Day 61+)
+
+        # Non-Leap Date Display (uses the non-leap calendar day)
+        non_leap_text="If your reading is aligned with the calendar year in a non-leap-year, this is for $non_leap_date"
+
+        # Leap Date Display (shifted forward by one day)
+        if (( day_num <= 365 )); then
+            # Get the date that is one calendar day later (for the leap year shift)
+            leap_date_ordinal=$((day_num + 1))
+            leap_date_display=$(date -d "Jan 1 + $((leap_date_ordinal - 1)) days" +"%B %d")
+            leap_text="or, in a leap-year, for $leap_date_display"
         else
-            # March 1 onwards
-            non_leap_date_display=$(date -d "Jan 1 + $((day_num - 1)) days" +"%B %d")
-            non_leap_text="If your reading is aligned with the calendar year in a non-leap-year, this is for $non_leap_date_display"
-
-            # For the leap year, we shift the date forward by one day from reading day 60 onwards
-            if (( day_num <= 365 )); then
-                leap_date_ordinal=$((day_num + 1))
-                if (( leap_date_ordinal <= 366 )); then
-                    leap_date_display=$(date -d "Jan 1 + $((leap_date_ordinal - 1)) days" +"%B %d")
-                    leap_text="or, in a leap-year, for $leap_date_display"
-                fi
-            else
-                # Day 366 is Dec 31 in a leap year.
-                leap_date_display="December 31"
-                leap_text="or, in a leap-year, for $leap_date_display"
-            fi
-
-            # Reconstruct the conditional text
-            if [ -n "$leap_text" ]; then
-                echo -e "$non_leap_text\n--- $leap_text"
-            else
-                echo "$non_leap_text"
-            fi
+            # Day 366 (Dec 31 in a leap year)
+            leap_date_display="December 31"
+            leap_text="or, in a leap-year, for $leap_date_display"
         fi
     fi
 
+    # Final Output for Case 2 and Case 3 (Day 60+)
+    # This structure is needed for the multi-line output (with the "---")
+    echo -e "$non_leap_text\n--- $leap_text"
 }
 
 # --- Function to Generate a Single Reading File ---
@@ -102,23 +87,31 @@ function generate_reading_file() {
     echo "Creating $filename..."
 
     cat > "$filename" <<- EOL
-This is the reading for day $day_num
+#import "BIAY_Style.typ": *
+
+// Take a look at the file \`BIAY_Style.typ\`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day $day_num
 
 $calendar_info
 
-The Old Testament reading is from: $ot_reading
+== The Old Testament reading is from: $ot_reading
 
 $ot_parts
 
-The New Testament reading is from: $nt_reading
+== The New Testament reading is from: $nt_reading
 
 $nt_parts
 
-The Wisdom Literature reading is from: $pp_reading
+== The Wisdom Literature reading is from: $pp_reading
 
 $pp_parts
 
-This concludes the reading for day $day_num. Thank you for listening.
+=== This concludes the reading for day $day_num. Thank you for listening.
 EOL
 
 }

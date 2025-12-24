@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 220
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for August 08
+--- or, in a leap-year, for August 09
+
+== The Old Testament reading is from: 1 Chronicles 26:20-32, 1 Chronicles 27
+
+1 Chronicles 26:20-32
+1 Chronicles 27
+
+== The New Testament reading is from: 1 Corinthians 4
+
+1 Corinthians 4
+
+== The Wisdom Literature reading is from: Proverbs 19:13-22
+
+Proverbs 19:13-22
+
+=== This concludes the reading for day 220. Thank you for listening.

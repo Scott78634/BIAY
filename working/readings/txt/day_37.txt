@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 37
+
+If your reading is aligned with the calendar year, this is for February 06
+
+== The Old Testament reading is from: Job 38, Job 39, Job 40:1-2
+
+Job 38
+Job 39
+Job 40:1-2
+
+== The New Testament reading is from: Matthew 24:32-51, Matthew 25:1-13
+
+Matthew 24:32-51
+Matthew 25:1-13
+
+== The Wisdom Literature reading is from: Psalm 18:37-42
+
+Psalm 18:37-42
+
+=== This concludes the reading for day 37. Thank you for listening.

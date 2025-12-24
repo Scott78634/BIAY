@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 343
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for December 09
+--- or, in a leap-year, for December 10
+
+== The Old Testament reading is from: Zechariah 9, Zechariah 10, Zechariah 11
+
+Zechariah 9
+Zechariah 10
+Zechariah 11
+
+== The New Testament reading is from: Revelation 1
+
+Revelation 1
+
+== The Wisdom Literature reading is from: Psalm 140:1-5
+
+Psalm 140:1-5
+
+=== This concludes the reading for day 343. Thank you for listening.

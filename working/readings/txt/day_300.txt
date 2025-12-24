@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 300
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for October 27
+--- or, in a leap-year, for October 28
+
+== The Old Testament reading is from: Habakkuk 1, Habakkuk 2, Habakkuk 3:1-19
+
+Habakkuk 1
+Habakkuk 2
+Habakkuk 3:1-19
+
+== The New Testament reading is from: Titus 2
+
+Titus 2
+
+== The Wisdom Literature reading is from: Proverbs 26:3-12
+
+Proverbs 26:3-12
+
+=== This concludes the reading for day 300. Thank you for listening.

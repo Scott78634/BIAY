@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 345
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for December 11
+--- or, in a leap-year, for December 12
+
+== The Old Testament reading is from: Esther 1, Esther 2:1-18
+
+Esther 1
+Esther 2:1-18
+
+== The New Testament reading is from: Revelation 2:18-29, Revelation 3:1-6
+
+Revelation 2:18-29
+Revelation 3:1-6
+
+== The Wisdom Literature reading is from: Psalm 140:6-13
+
+Psalm 140:6-13
+
+=== This concludes the reading for day 345. Thank you for listening.

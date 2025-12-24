@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 27
+
+If your reading is aligned with the calendar year, this is for January 27
+
+== The Old Testament reading is from: Job 4, Job 5, Job 6, Job 7
+
+Job 4
+Job 5
+Job 6
+Job 7
+
+== The New Testament reading is from: Matthew 19:1-15
+
+Matthew 19:1-15
+
+== The Wisdom Literature reading is from: Psalm 17:1-5
+
+Psalm 17:1-5
+
+=== This concludes the reading for day 27. Thank you for listening.

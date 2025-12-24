@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 25
+
+If your reading is aligned with the calendar year, this is for January 25
+
+== The Old Testament reading is from: Genesis 49, Genesis 50
+
+Genesis 49
+Genesis 50
+
+== The New Testament reading is from: Matthew 17:14-27, Matthew 18:1-9
+
+Matthew 17:14-27
+Matthew 18:1-9
+
+== The Wisdom Literature reading is from: Psalm 15:1-5
+
+Psalm 15:1-5
+
+=== This concludes the reading for day 25. Thank you for listening.

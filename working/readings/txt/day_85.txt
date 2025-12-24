@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 85
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for March 26
+--- or, in a leap-year, for March 27
+
+== The Old Testament reading is from: Numbers 21:4-35, Numbers 22:1-20
+
+Numbers 21:4-35
+Numbers 22:1-20
+
+== The New Testament reading is from: Luke 6:12-36
+
+Luke 6:12-36
+
+== The Wisdom Literature reading is from: Psalm 37:21-31
+
+Psalm 37:21-31
+
+=== This concludes the reading for day 85. Thank you for listening.

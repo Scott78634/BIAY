@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 32
+
+If your reading is aligned with the calendar year, this is for February 01
+
+== The Old Testament reading is from: Job 22, Job 23, Job 24
+
+Job 22
+Job 23
+Job 24
+
+== The New Testament reading is from: Matthew 21:18-32
+
+Matthew 21:18-32
+
+== The Wisdom Literature reading is from: Proverbs 3:21-35
+
+Proverbs 3:21-35
+
+=== This concludes the reading for day 32. Thank you for listening.

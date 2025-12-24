@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 216
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for August 04
+--- or, in a leap-year, for August 05
+
+== The Old Testament reading is from: 1 Chronicles 16:37-43, 1 Chronicles 17, 1 Chronicles 18
+
+1 Chronicles 16:37-43
+1 Chronicles 17
+1 Chronicles 18
+
+== The New Testament reading is from: 1 Corinthians 1:1-17
+
+1 Corinthians 1:1-17
+
+== The Wisdom Literature reading is from: Proverbs 19:3-12
+
+Proverbs 19:3-12
+
+=== This concludes the reading for day 216. Thank you for listening.

@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 261
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for September 18
+--- or, in a leap-year, for September 19
+
+== The Old Testament reading is from: Isaiah 43, Isaiah 44:1-23
+
+Isaiah 43
+Isaiah 44:1-23
+
+== The New Testament reading is from: Galatians 3:26-29, Galatians 4:1-20
+
+Galatians 3:26-29
+Galatians 4:1-20
+
+== The Wisdom Literature reading is from: Psalm 108:1-5
+
+Psalm 108:1-5
+
+=== This concludes the reading for day 261. Thank you for listening.

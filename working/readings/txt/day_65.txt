@@ -1,0 +1,26 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 65
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for March 06
+--- or, in a leap-year, for March 07
+
+== The Old Testament reading is from: Leviticus 14:1-57
+
+Leviticus 14:1-57
+
+== The New Testament reading is from: Mark 13:1-31
+
+Mark 13:1-31
+
+== The Wisdom Literature reading is from: Psalm 30:8-12
+
+Psalm 30:8-12
+
+=== This concludes the reading for day 65. Thank you for listening.

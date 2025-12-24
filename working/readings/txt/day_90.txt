@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 90
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for March 31
+--- or, in a leap-year, for April 01
+
+== The Old Testament reading is from: Numbers 29:12-40, Numbers 30, Numbers 31:1-24
+
+Numbers 29:12-40
+Numbers 30
+Numbers 31:1-24
+
+== The New Testament reading is from: Luke 8:19-39
+
+Luke 8:19-39
+
+== The Wisdom Literature reading is from: Psalm 39:1-13
+
+Psalm 39:1-13
+
+=== This concludes the reading for day 90. Thank you for listening.

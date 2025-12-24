@@ -1,0 +1,26 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 22
+
+If your reading is aligned with the calendar year, this is for January 22
+
+== The Old Testament reading is from: Genesis 43, Genesis 44
+
+Genesis 43
+Genesis 44
+
+== The New Testament reading is from: Matthew 15:10-39
+
+Matthew 15:10-39
+
+== The Wisdom Literature reading is from: Psalm 13:1-6
+
+Psalm 13:1-6
+
+=== This concludes the reading for day 22. Thank you for listening.

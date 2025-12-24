@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 73
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for March 14
+--- or, in a leap-year, for March 15
+
+== The Old Testament reading is from: Numbers 1, Numbers 2:1-9
+
+Numbers 1
+Numbers 2:1-9
+
+== The New Testament reading is from: Luke 1:26-38
+
+Luke 1:26-38
+
+== The Wisdom Literature reading is from: Psalm 33:12-22
+
+Psalm 33:12-22
+
+=== This concludes the reading for day 73. Thank you for listening.

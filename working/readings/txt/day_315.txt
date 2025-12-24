@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 315
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for November 11
+--- or, in a leap-year, for November 12
+
+== The Old Testament reading is from: Ezekiel 20:45-49, Ezekiel 21, Ezekiel 22:1-22
+
+Ezekiel 20:45-49
+Ezekiel 21
+Ezekiel 22:1-22
+
+== The New Testament reading is from: Hebrews 10:19-39
+
+Hebrews 10:19-39
+
+== The Wisdom Literature reading is from: Psalm 123:1-4
+
+Psalm 123:1-4
+
+=== This concludes the reading for day 315. Thank you for listening.

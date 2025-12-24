@@ -1,0 +1,189 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 1
+
+If your reading is aligned with the calendar year, this is for January 01
+
+== The Old Testament reading is from: Genesis 1, Genesis 2:1-17
+
+Genesis 1 (LEB)
+
+1 In the beginning, God created the heavens and the earth—
+
+2 Now the earth was formless and empty, and darkness was over the face of the deep. And the Spirit of God was hovering over the surface of the waters.
+
+3 And God said, “Let there be light!” And there was light. 4 And God saw the light, that it was good, and God caused there to be a separation between the light and between the darkness. 5 And God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day.
+
+6 And God said, “Let there be a vaulted dome in the midst of the waters, and let it cause a separation between the waters.” 7 So God made the vaulted dome, and he caused a separation between the waters which were under the vaulted dome and between the waters which were over the vaulted dome. And it was so. 8 And God called the vaulted dome “heaven.” And there was evening, and there was morning, a second day.
+
+9 And God said, “Let the waters under heaven be gathered to one place, and let the dry ground appear.” And it was so. 10 And God called the dry ground “earth,” and he called the collection of the waters “seas.” And God saw that it was good.
+
+11 And God said, “Let the earth produce green plants that will bear seed—fruit trees bearing fruit in which there is seed—according to its kind, on the earth.” And it was so. 12 And the earth brought forth green plants bearing seed according to its kind, and trees bearing fruit in which there was seed according to its kind. And God saw that it was good. 13 And there was evening and there was morning, a third day.
+
+14 And God said, “Let there be lights in the vaulted dome of heaven to separate day from night, and let them be as signs and for appointed times, and for days and years, 15 and they shall be as lights in the vaulted dome of heaven to give light on the earth.” And it was so. 16 And God made two lights, the greater light to rule the day and the smaller light to rule the night, and the stars. 17 And God placed them in the vaulted dome of heaven to give light on the earth 18 and to rule over the day and over the night, and to separate light from darkness. And God saw that it was good. 19 And there was evening and there was morning, a fourth day.
+
+20 And God said, “Let the waters swarm with swarms of living creatures, and let birds fly over the earth across the face of the vaulted dome of heaven. 21 So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kind, and every bird with wings according to its kind. And God saw that it was good. 22 And God blessed them, saying, “Be fruitful and multiply, and fill the waters in the seas, and let the birds multiply on the earth.” 23 And there was evening, and there was morning, a fifth day.
+
+24 And God said, “Let the earth bring forth living creatures according to their kind: cattle and moving things, and wild animals according to their kind.” And it was so. 25 So God made wild animals according to their kind and the cattle according to their kind, and every creeping thing of the earth according to its kind. And God saw that it was good.
+
+26 And God said, “Let us make humankind in our image and according to our likeness, and let them rule over the fish of the sea, and over the birds of heaven, and over the cattle, and over all the earth, and over every moving thing that moves upon the earth.” 27 So God created humankind in his image, in the likeness of God he created him, male and female he created them. 28 And God blessed them, and God said to them, “Be fruitful and multiply, and fill the earth and subdue it, and rule over the fish of the sea and the birds of heaven, and over every animal that moves upon the earth.”
+
+29 And God said, “Look—I am giving to you every plant that bears seed which is on the face of the whole earth, and every kind of tree that bears fruit. They shall be yours as food.” 30 And to every kind of animal of the earth and to every bird of heaven, and to everything that moves upon the earth in which there is life I am giving every green plant as food.” And it was so.
+
+31 And God saw everything that he had made and, behold, it was very good. And there was evening, and there was morning, a sixth day.
+
+
+Genesis 2:1-17 (LEB)
+
+1 And heaven and earth and all their array were finished. 2 And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done. 3 And God blessed the seventh day, and he sanctified it, because on it he rested from all his work of creating that there was to do.
+
+4 These are the generations of heaven and earth when they were created, in the day that Yahweh God made earth and heaven— 5 before any plant of the field was on earth, and before any plant of the field had sprung up, because Yahweh God had not caused it to rain upon the earth, and there was no human being to cultivate the ground, 6 but a stream would rise from the earth and water the whole face of the ground— 7 when Yahweh God formed the man of dust from the ground, and he blew into his nostrils the breath of life, and the man became a living creature.
+
+8 And Yahweh God planted a garden in Eden in the east, and there he put the man whom he had formed. 9 And Yahweh God caused to grow every tree that was pleasing to the sight and good for food. And the tree of life was in the midst of the garden, along with the tree of the knowledge of good and evil.
+
+10 Now a river flowed out from Eden that watered the garden, and from there it diverged and became four branches. 11 The name of the first is the Pishon. It went around all the land of Havilah, where there is gold. 12 (The gold of that land is good; bdellium and onyx stones are there.) 13 And the name of the second is Gihon. It went around all the land of Cush. 14 And the name of the third is Tigris. It flows east of Assyria. And the fourth river is the Euphrates.
+
+15 And Yahweh God took the man and set him in the garden of Eden to cultivate it and to keep it. 16 And Yahweh God commanded the man, saying, “From every tree of the garden you may freely eat, 17 but from the tree of the knowledge of good and evil you shall not eat, for in the day that you eat from it you shall surely die.”
+
+
+== The New Testament reading is from: Matthew 1:1-25
+
+Matthew 1 (LEB)
+
+1 The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.
+
+2 Abraham became the father of Isaac,
+
+and Isaac became the father of Jacob,
+
+and Jacob became the father of Judah and his brothers,
+
+3 and Judah became the father of Perez and Zerah by Tamar,
+
+and Perez became the father of Hezron,
+
+and Hezron became the father of Aram,
+
+4 and Aram became the father of Amminadab,
+
+and Amminadab became the father of Nahshon,
+
+and Nahshon became the father of Salmon,
+
+5 and Salmon became the father of Boaz by Rahab,
+
+and Boaz became the father of Obed by Ruth,
+
+and Obed became the father of Jesse,
+
+6 and Jesse became the father of David the king.
+
+And David became the father of Solomon by the wife of Uriah,
+
+7 and Solomon became the father of Rehoboam,
+
+and Rehoboam became the father of Abijah,
+
+and Abijah became the father of Asa,
+
+8 and Asa became the father of Jehoshaphat,
+
+and Jehoshaphat became the father of Joram,
+
+and Joram became the father of Uzziah,
+
+9 and Uzziah became the father of Jotham,
+
+and Jotham became the father of Ahaz,
+
+and Ahaz became the father of Hezekiah,
+
+10 and Hezekiah became the father of Manasseh,
+
+and Manasseh became the father of Amon,
+
+and Amon became the father of Josiah,
+
+11 and Josiah became the father of Jechoniah and his brothers, at the time of the deportation to Babylon.
+
+12 And after the deportation to Babylon, Jechoniah became the father of Shealtiel,
+
+and Shealtiel became the father of Zerubbabel,
+
+13 and Zerubbabel became the father of Abiud,
+
+and Abiud became the father of Eliakim,
+
+and Eliakim became the father of Azor,
+
+14 and Azor became the father of Zadok,
+
+and Zadok became the father of Achim,
+
+and Achim became the father of Eliud,
+
+15 and Eliud became the father of Eleazar,
+
+and Eleazar became the father of Matthan,
+
+and Matthan became the father of Jacob,
+
+16 and Jacob became the father of Joseph,
+
+the husband of Mary by whom was born Jesus,
+
+who is called Christ.
+
+17 Therefore all the generations from Abraham to David are fourteen generations, and from David to the deportation to Babylon are fourteen generations, and from the deportation to Babylon to the Christ are fourteen generations.
+
+18 Now the birth of Jesus Christ occurred in this way. His mother Mary had been betrothed to Joseph, but before they came together, she was found to be pregnant by the Holy Spirit.
+
+19 So Joseph her husband, being righteous and not wanting to disgrace her, intended to divorce her secretly. 20 But as he was considering these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, do not be afraid to take Mary as your wife, for what has been conceived in her is from the Holy Spirit. 21 And she will give birth to a son, and you will call his name ‘Jesus,’ because he will save his people from their sins.”
+
+22 Now all this happened in order that what was spoken by the Lord through the prophet would be fulfilled, saying,
+
+23 “Behold, the virgin will become pregnant and will give birth to a son, and they will call his name Emmanuel,” which is translated, “God with us.”
+
+24 And Joseph, when he woke up from sleep, did as the angel of the Lord commanded him, and he took his wife 25 and did not have sexual relations with her until she gave birth to a son. And he called his name Jesus.
+
+
+
+
+
+== The Wisdom Literature reading is from: Psalm 1:1-6
+
+Psalms 1 (LEB)
+
+1 Blessed is the man who does not walk in the advice of the wicked;
+
+nor does he stand in the way of sinners;
+
+nor does he sit in the assembly of mockers.
+
+2 Instead, in the law of Yahweh is his delight,
+
+and on his law he meditates day and night.
+
+3 And so, he is like a tree planted by streams of water that gives its fruit in its season;
+
+its leaf also does not wither.
+
+Therefore all that he does prospers.
+
+4 Not so the wicked. Instead, they are like the chaff that the wind scatters.
+
+5 Therefore the wicked will not stand in the judgment,
+
+nor sinners in the congregation of the righteous;
+
+6 for Yahweh knows the way of the righteous, but the way of the wicked will perish.
+
+
+
+=== This concludes the reading for day 1. Thank you for listening.

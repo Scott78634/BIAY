@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 182
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for July 01
+--- or, in a leap-year, for July 02
+
+== The Old Testament reading is from: 2 Kings 3, 2 Kings 4:1-37
+
+2 Kings 3
+2 Kings 4:1-37
+
+== The New Testament reading is from: Acts 21:1-26
+
+Acts 21:1-26
+
+== The Wisdom Literature reading is from: Psalm 78:56-72
+
+Psalm 78:56-72
+
+=== This concludes the reading for day 182. Thank you for listening.

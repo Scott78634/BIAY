@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 29
+
+If your reading is aligned with the calendar year, this is for January 29
+
+== The Old Testament reading is from: Job 11, Job 12, Job 13, Job 14
+
+Job 11
+Job 12
+Job 13
+Job 14
+
+== The New Testament reading is from: Matthew 20:1-19
+
+Matthew 20:1-19
+
+== The Wisdom Literature reading is from: Psalm 17:6-12
+
+Psalm 17:6-12
+
+=== This concludes the reading for day 29. Thank you for listening.

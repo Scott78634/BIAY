@@ -1,0 +1,29 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 283
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for October 10
+--- or, in a leap-year, for October 11
+
+== The Old Testament reading is from: Jeremiah 21, Jeremiah 22, Jeremiah 23:1-8
+
+Jeremiah 21
+Jeremiah 22
+Jeremiah 23:1-8
+
+== The New Testament reading is from: 1 Thessalonians 2:17-19, 1 Thessalonians 3
+
+1 Thessalonians 2:17-19
+1 Thessalonians 3
+
+== The Wisdom Literature reading is from: Psalm 119:9-16
+
+Psalm 119:9-16
+
+=== This concludes the reading for day 283. Thank you for listening.

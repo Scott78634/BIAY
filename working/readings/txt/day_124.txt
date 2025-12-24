@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 124
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for May 04
+--- or, in a leap-year, for May 05
+
+== The Old Testament reading is from: Judges 1, Judges 2:1-5
+
+Judges 1
+Judges 2:1-5
+
+== The New Testament reading is from: John 4:1-26
+
+John 4:1-26
+
+== The Wisdom Literature reading is from: Proverbs 11:9-18
+
+Proverbs 11:9-18
+
+=== This concludes the reading for day 124. Thank you for listening.

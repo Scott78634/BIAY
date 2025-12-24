@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 26
+
+If your reading is aligned with the calendar year, this is for January 26
+
+== The Old Testament reading is from: Job 1, Job 2, Job 3
+
+Job 1
+Job 2
+Job 3
+
+== The New Testament reading is from: Matthew 18:10-35
+
+Matthew 18:10-35
+
+== The Wisdom Literature reading is from: Psalm 16:1-11
+
+Psalm 16:1-11
+
+=== This concludes the reading for day 26. Thank you for listening.

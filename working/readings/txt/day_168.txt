@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 168
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for June 17
+--- or, in a leap-year, for June 18
+
+== The Old Testament reading is from: 1 Kings 2:13-46, 1 Kings 3:1-15
+
+1 Kings 2:13-46
+1 Kings 3:1-15
+
+== The New Testament reading is from: Acts 11:19-30, Acts 12:1-19
+
+Acts 11:19-30
+Acts 12:1-19
+
+== The Wisdom Literature reading is from: Proverbs 15:1-10
+
+Proverbs 15:1-10
+
+=== This concludes the reading for day 168. Thank you for listening.

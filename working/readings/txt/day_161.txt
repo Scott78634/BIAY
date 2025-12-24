@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 161
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for June 10
+--- or, in a leap-year, for June 11
+
+== The Old Testament reading is from: 2 Samuel 15:13-37, 2 Samuel 16:1-14
+
+2 Samuel 15:13-37
+2 Samuel 16:1-14
+
+== The New Testament reading is from: Acts 6, Acts 7:1-19
+
+Acts 6
+Acts 7:1-19
+
+== The Wisdom Literature reading is from: Psalm 71:19-24
+
+Psalm 71:19-24
+
+=== This concludes the reading for day 161. Thank you for listening.

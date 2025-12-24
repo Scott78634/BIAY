@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 34
+
+If your reading is aligned with the calendar year, this is for February 03
+
+== The Old Testament reading is from: Job 30, Job 31, Job 32
+
+Job 30
+Job 31
+Job 32
+
+== The New Testament reading is from: Matthew 22:15-46
+
+Matthew 22:15-46
+
+== The Wisdom Literature reading is from: Psalm 18:16-24
+
+Psalm 18:16-24
+
+=== This concludes the reading for day 34. Thank you for listening.

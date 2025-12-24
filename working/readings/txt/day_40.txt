@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 40
+
+If your reading is aligned with the calendar year, this is for February 09
+
+== The Old Testament reading is from: Exodus 4, Exodus 5, Exodus 6:1-12
+
+Exodus 4
+Exodus 5
+Exodus 6:1-12
+
+== The New Testament reading is from: Matthew 26:31-46
+
+Matthew 26:31-46
+
+== The Wisdom Literature reading is from: Proverbs 4:10-19
+
+Proverbs 4:10-19
+
+=== This concludes the reading for day 40. Thank you for listening.

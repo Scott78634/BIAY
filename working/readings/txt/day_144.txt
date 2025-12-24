@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 144
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for May 24
+--- or, in a leap-year, for May 25
+
+== The Old Testament reading is from: 1 Samuel 14:24-52, 1 Samuel 15
+
+1 Samuel 14:24-52
+1 Samuel 15
+
+== The New Testament reading is from: John 14:1-31
+
+John 14:1-31
+
+== The Wisdom Literature reading is from: Proverbs 12:28, Proverbs 13:1-9
+
+Proverbs 12:28
+Proverbs 13:1-9
+
+=== This concludes the reading for day 144. Thank you for listening.

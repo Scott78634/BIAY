@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 207
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for July 26
+--- or, in a leap-year, for July 27
+
+== The Old Testament reading is from: 1 Chronicles 1, 1 Chronicles 2:1-17
+
+1 Chronicles 1
+1 Chronicles 2:1-17
+
+== The New Testament reading is from: Romans 9:22-33, Romans 10:1-4
+
+Romans 9:22-33
+Romans 10:1-4
+
+== The Wisdom Literature reading is from: Psalm 89:14-18
+
+Psalm 89:14-18
+
+=== This concludes the reading for day 207. Thank you for listening.

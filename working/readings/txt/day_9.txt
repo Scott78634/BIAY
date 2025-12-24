@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 9
+
+If your reading is aligned with the calendar year, this is for January 09
+
+== The Old Testament reading is from: Genesis 19, Genesis 20:1-18
+
+Genesis 19
+Genesis 20:1-18
+
+== The New Testament reading is from: Matthew 7:24-29, Matthew 8:1-22
+
+Matthew 7:24-29
+Matthew 8:1-22
+
+== The Wisdom Literature reading is from: Psalm 7:1-9
+
+Psalm 7:1-9
+
+=== This concludes the reading for day 9. Thank you for listening.

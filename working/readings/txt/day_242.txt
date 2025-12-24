@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 242
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for August 30
+--- or, in a leap-year, for August 31
+
+== The Old Testament reading is from: 2 Chronicles 35:20-27, 2 Chronicles 36
+
+2 Chronicles 35:20-27
+2 Chronicles 36
+
+== The New Testament reading is from: 2 Corinthians 3:7-18
+
+2 Corinthians 3:7-18
+
+== The Wisdom Literature reading is from: Psalm 104:19-30
+
+Psalm 104:19-30
+
+=== This concludes the reading for day 242. Thank you for listening.

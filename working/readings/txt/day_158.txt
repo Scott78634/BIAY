@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 158
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for June 07
+--- or, in a leap-year, for June 08
+
+== The Old Testament reading is from: 2 Samuel 11, 2 Samuel 12
+
+2 Samuel 11
+2 Samuel 12
+
+== The New Testament reading is from: Acts 4:1-22
+
+Acts 4:1-22
+
+== The Wisdom Literature reading is from: Psalm 71:1-8
+
+Psalm 71:1-8
+
+=== This concludes the reading for day 158. Thank you for listening.

@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 41
+
+If your reading is aligned with the calendar year, this is for February 10
+
+== The Old Testament reading is from: Exodus 6:13-30, Exodus 7,Exodus 8
+
+Exodus 6:13-30
+Exodus 7
+Exodus 8
+
+== The New Testament reading is from: Matthew 26:47-68
+
+Matthew 26:47-68
+
+== The Wisdom Literature reading is from: Psalm 19:7-14
+
+Psalm 19:7-14
+
+=== This concludes the reading for day 41. Thank you for listening.

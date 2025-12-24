@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 357
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for December 23
+--- or, in a leap-year, for December 24
+
+== The Old Testament reading is from: Ezra 10
+
+Ezra 10
+
+== The New Testament reading is from: Revelation 14:14-20, Revelation 15
+
+Revelation 14:14-20
+Revelation 15
+
+== The Wisdom Literature reading is from: Psalm 146:1-10
+
+Psalm 146:1-10
+
+=== This concludes the reading for day 357. Thank you for listening.

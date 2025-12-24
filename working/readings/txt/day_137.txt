@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 137
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for May 17
+--- or, in a leap-year, for May 18
+
+== The Old Testament reading is from: Ruth 3, Ruth 4
+
+Ruth 3
+Ruth 4
+
+== The New Testament reading is from: John 9:35-41, John 10:1-21
+
+John 9:35-41
+John 10:1-21
+
+== The Wisdom Literature reading is from: Psalm 62:1-12
+
+Psalm 62:1-12
+
+=== This concludes the reading for day 137. Thank you for listening.

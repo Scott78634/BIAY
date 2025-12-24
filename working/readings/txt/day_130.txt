@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 130
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for May 10
+--- or, in a leap-year, for May 11
+
+== The Old Testament reading is from: Judges 10, Judges 11
+
+Judges 10
+Judges 11
+
+== The New Testament reading is from: John 6:25-59
+
+John 6:25-59
+
+== The Wisdom Literature reading is from: Psalm 59:1-8
+
+Psalm 59:1-8
+
+=== This concludes the reading for day 130. Thank you for listening.

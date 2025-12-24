@@ -1,0 +1,29 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 248
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for September 05
+--- or, in a leap-year, for September 06
+
+== The Old Testament reading is from: Isaiah 8:11-22, Isaiah 9, Isaiah 10:1-19
+
+Isaiah 8:11-22
+Isaiah 9
+Isaiah 10:1-19
+
+== The New Testament reading is from: 2 Corinthians 8:1-15
+
+2 Corinthians 8:1-15
+
+== The Wisdom Literature reading is from: Proverbs 21:27-31, Proverbs 22:1-6
+
+Proverbs 21:27-31
+Proverbs 22:1-6
+
+=== This concludes the reading for day 248. Thank you for listening.

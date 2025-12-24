@@ -1,0 +1,29 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 259
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for September 16
+--- or, in a leap-year, for September 17
+
+== The Old Testament reading is from: Isaiah 38, Isaiah 39, Isaiah 40
+
+Isaiah 38
+Isaiah 39
+Isaiah 40
+
+== The New Testament reading is from: Galatians 2:11-21, Galatians 3:1-9
+
+Galatians 2:11-21
+Galatians 3:1-9
+
+== The Wisdom Literature reading is from: Psalm 107:33-43
+
+Psalm 107:33-43
+
+=== This concludes the reading for day 259. Thank you for listening.

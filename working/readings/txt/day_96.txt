@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 96
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for April 06
+--- or, in a leap-year, for April 07
+
+== The Old Testament reading is from: Deuteronomy 4:15-49, Deuteronomy 5
+
+Deuteronomy 4:15-49
+Deuteronomy 5
+
+== The New Testament reading is from: Luke 11:5-32
+
+Luke 11:5-32
+
+== The Wisdom Literature reading is from: Proverbs 8:32-36
+
+Proverbs 8:32-36
+
+=== This concludes the reading for day 96. Thank you for listening.

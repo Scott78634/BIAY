@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 166
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for June 15
+--- or, in a leap-year, for June 16
+
+== The Old Testament reading is from: 2 Samuel 23:8-39, 2 Samuel 24:1-25
+
+2 Samuel 23:8-39
+2 Samuel 24:1-25
+
+== The New Testament reading is from: Acts 9:32-43, Acts 10:1-23
+
+Acts 9:32-43
+Acts 10:1-23
+
+== The Wisdom Literature reading is from: Psalms 74:1-9
+
+Psalms 74:1-9
+
+=== This concludes the reading for day 166. Thank you for listening.

@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 287
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for October 14
+--- or, in a leap-year, for October 15
+
+== The Old Testament reading is from: Jeremiah 29:24-32, Jeremiah 30, Jeremiah 31:1-14
+
+Jeremiah 29:24-32
+Jeremiah 30
+Jeremiah 31:1-14
+
+== The New Testament reading is from: 2 Thessalonians 2
+
+2 Thessalonians 2
+
+== The Wisdom Literature reading is from: Psalm 119:33-40
+
+Psalm 119:33-40
+
+=== This concludes the reading for day 287. Thank you for listening.

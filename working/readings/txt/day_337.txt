@@ -1,0 +1,29 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 337
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for December 03
+--- or, in a leap-year, for December 04
+
+== The Old Testament reading is from: Daniel 9:20-27, Daniel 10, Daniel 11:1
+
+Daniel 9:20-27
+Daniel 10
+Daniel 11:1
+
+== The New Testament reading is from: 1 John 3:11-24, 1 John 4:1-6
+
+1 John 3:11-24
+1 John 4:1-6
+
+== The Wisdom Literature reading is from: Psalm 137:1-9
+
+Psalm 137:1-9
+
+=== This concludes the reading for day 337. Thank you for listening.

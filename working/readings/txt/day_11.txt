@@ -1,0 +1,25 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 11
+
+If your reading is aligned with the calendar year, this is for January 11
+
+== The Old Testament reading is from: Genesis 24:1-67
+
+Genesis 24:1-67
+
+== The New Testament reading is from: Matthew 9:14-38
+
+Matthew 9:14-38
+
+== The Wisdom Literature reading is from: Psalm 8:1-9
+
+Psalm 8:1-9
+
+=== This concludes the reading for day 11. Thank you for listening.

@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 7
+
+If your reading is aligned with the calendar year, this is for January 07
+
+== The Old Testament reading is from: Genesis 14, Genesis 15, Genesis 16
+
+Genesis 14
+Genesis 15
+Genesis 16
+
+== The New Testament reading is from: Matthew 5:43-48, Matthew 6:1-24
+
+Matthew 5:43-48
+Matthew 6:1-24
+
+== The Wisdom Literature reading is from: Psalm 6
+
+Psalm 6
+
+=== This concludes the reading for day 7. Thank you for listening.

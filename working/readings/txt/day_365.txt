@@ -1,0 +1,26 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 365
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for December 31
+--- or, in a leap-year, for January 01
+
+== The Old Testament reading is from: Nehemiah 13
+
+Nehemiah 13
+
+== The New Testament reading is from: Revelation 22
+
+Revelation 22
+
+== The Wisdom Literature reading is from: Psalm 150:1-56
+
+Psalm 150:1-56
+
+=== This concludes the reading for day 365. Thank you for listening.

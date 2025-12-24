@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 271
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for September 28
+--- or, in a leap-year, for September 29
+
+== The Old Testament reading is from: Nahum 1, Nahum 2, Nahum 3
+
+Nahum 1
+Nahum 2
+Nahum 3
+
+== The New Testament reading is from: Ephesians 6
+
+Ephesians 6
+
+== The Wisdom Literature reading is from: Psalm 114:1-8
+
+Psalm 114:1-8
+
+=== This concludes the reading for day 271. Thank you for listening.

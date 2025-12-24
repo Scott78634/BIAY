@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 72
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for March 13
+--- or, in a leap-year, for March 14
+
+== The Old Testament reading is from: Leviticus 26:14-46, Leviticus 27
+
+Leviticus 26:14-46
+Leviticus 27
+
+== The New Testament reading is from: Luke 1:1-25
+
+Luke 1:1-25
+
+== The Wisdom Literature reading is from: Proverbs 7:1-5
+
+Proverbs 7:1-5
+
+=== This concludes the reading for day 72. Thank you for listening.

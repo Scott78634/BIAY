@@ -1,0 +1,29 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 309
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for November 05
+--- or, in a leap-year, for November 06
+
+== The Old Testament reading is from: Ezekiel 7, Ezekiel 8, Ezekiel 9
+
+Ezekiel 7
+Ezekiel 8
+Ezekiel 9
+
+== The New Testament reading is from: Hebrews 6:13-20, Hebrews 7:1-10
+
+Hebrews 6:13-20
+Hebrews 7:1-10
+
+== The Wisdom Literature reading is from: Psalm 119:161-168
+
+Psalm 119:161-168
+
+=== This concludes the reading for day 309. Thank you for listening.

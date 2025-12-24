@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 336
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for December 02
+--- or, in a leap-year, for December 03
+
+== The Old Testament reading is from: Daniel 8:15-27, Daniel 9:1-19
+
+Daniel 8:15-27
+Daniel 9:1-19
+
+== The New Testament reading is from: 1 John 2:28-29, 1 John 3:1-10
+
+1 John 2:28-29
+1 John 3:1-10
+
+== The Wisdom Literature reading is from: Proverbs 29:10-18
+
+Proverbs 29:10-18
+
+=== This concludes the reading for day 336. Thank you for listening.

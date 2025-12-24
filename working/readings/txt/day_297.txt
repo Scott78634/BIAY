@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 297
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for October 24
+--- or, in a leap-year, for October 25
+
+== The Old Testament reading is from: Jeremiah 50:11-46, Jeremiah 51:1-14
+
+Jeremiah 50:11-46
+Jeremiah 51:1-14
+
+== The New Testament reading is from: 2 Timothy 3
+
+2 Timothy 3
+
+== The Wisdom Literature reading is from: Psalm 119:89-96
+
+Psalm 119:89-96
+
+=== This concludes the reading for day 297. Thank you for listening.

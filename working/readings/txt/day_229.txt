@@ -1,0 +1,28 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 229
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for August 17
+--- or, in a leap-year, for August 18
+
+== The Old Testament reading is from: 2 Chronicles 7:11-22, 2 Chronicles 8, 2 Chronicles 9
+
+2 Chronicles 7:11-22
+2 Chronicles 8
+2 Chronicles 9
+
+== The New Testament reading is from: 1 Corinthians 11:2-34
+
+1 Corinthians 11:2-34
+
+== The Wisdom Literature reading is from: Psalm 98:1-9
+
+Psalm 98:1-9
+
+=== This concludes the reading for day 229. Thank you for listening.

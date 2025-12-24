@@ -1,0 +1,27 @@
+#import "BIAY_Style.typ": *
+
+// Take a look at the file `BIAY_Style.typ`
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Bible In A Year"
+)
+
+= This is the reading for day 333
+
+If your reading is aligned with the calendar year in a non-leap-year, this is for November 29
+--- or, in a leap-year, for November 30
+
+== The Old Testament reading is from: Daniel 4:19-37, Daniel 5:1-16
+
+Daniel 4:19-37
+Daniel 5:1-16
+
+== The New Testament reading is from: 2 Peter 3
+
+2 Peter 3
+
+== The Wisdom Literature reading is from: Psalm 135:13-21
+
+Psalm 135:13-21
+
+=== This concludes the reading for day 333. Thank you for listening.
