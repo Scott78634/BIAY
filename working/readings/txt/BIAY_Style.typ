@@ -53,7 +53,7 @@
   set document(author: authors.map(a => a.name), title: title)
   set page(
     paper: "us-letter",
-    flipped: false,
+    flipped: true,
 //    orientation: "landscape", // Changed to portrait for a more typical study layout, adjust if you truly want landscape
     columns: 1, // Two columns, equal width
 //    column_gap: 1em, // Adjust as needed

@@ -3,7 +3,7 @@
 // Take a look at the file `BIAY_Style.typ`
 // to customize this template and discover how it works.
 #show: project.with(
-  title: "Bible In A Year"
+  title: "Bible In A Year - Day 5"
 )
 
 = This is the reading for day 5
@@ -12,17 +12,165 @@ If your reading is aligned with the calendar year, this is for January 05
 
 == The Old Testament reading is from: Genesis 9:18-29, Genesis 10, Genesis 11:1-9
 
-Genesis 9:18-29
-Genesis 10
-Genesis 11:1-9
+Genesis 9:18-29 (LEB)
+
+18 Now the sons of Noah who came out of the ark were Shem, Ham, and Japheth. (Ham was the father of Canaan.) 19 These three were the sons of Noah, and from these the whole earth was populated.
+
+20 And Noah began to be a man of the ground, and he planted a vineyard. 21 And he drank some of the wine and became drunk, and he exposed himself in the midst of his tent.
+
+22 And Ham, the father of Canaan, saw the nakedness of his father, and he told his two brothers outside.
+
+23 Then Shem and Japheth took a garment, and the two of them put it on their shoulders and, walking backward, they covered the nakedness of their father. And their faces were turned backward, so that they did not see the nakedness of their father.
+
+24 Then Noah awoke from his drunkenness, and he knew what his youngest son had done to him.
+
+25 And he said, “Cursed be Canaan, a slave of slaves he shall be to his brothers.” 26 Then he said, “Blessed be Yahweh, the God of Shem, and let Canaan be a slave to them. 27 May God make space for Japheth, and let him dwell in the tents of Shem, and let Canaan be a slave for him.”
+
+28 And Noah lived three hundred and fifty years after the flood. 29 And all the days of Noah were nine hundred and fifty years, and he died.
+
+Genesis 10 (LEB)
+
+1 These are the generations of the sons of Noah—Shem, Ham, and Japheth. Children were born to them after the flood.
+
+2 The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+
+3 And the sons of Gomer: Ashkenaz, Riphath, and Togarmah.
+
+4 And the sons of Javan: Elishah, Tarshish, Kittim, and Dodanim.
+
+5 From these the coastland peoples spread out through their lands, each according to his own language by their own families, in their nations.
+
+6 And the sons of Ham: Cush, Egypt, Put, and Canaan.
+
+7 And the sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca.
+
+The sons of Raamah: Sheba and Dedan.
+
+8 And Cush fathered Nimrod. He was the first on earth to be a mighty warrior. 9 He was a mighty hunter before Yahweh. Therefore it was said, “Like Nimrod a mighty hunter before Yahweh.”
+
+10 Now, the beginning of his kingdom was Babel, Erech, Akkad, and Calneh, in the land of Shinar. 11 From that land he went out to Assyria, and he built Nineveh, Rehoboth-Ir, Calah, 12 Resen between Nineveh and Calah; that is the great city.
+
+13 And Egypt fathered Ludim, Anamim, Lehabim, Naphtuhim, 14 Pathrusim, and Casluhim (from whom the Philistines came), and Caphtorim.
+
+15 Canaan fathered Sidon, his firstborn, and Heth, 16 and the Jebusites, the Amorites, the Girgashites, 17 the Hivites, the Arkites, the Sinites, 18 the Arvadites, the Zemarites, and the Hamathites. Afterward the families of the Canaanites were spread abroad.
+
+19 And the territory of the Canaanites was from Sidon in the direction of Gerar as far as Gaza, and in the direction of Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.
+
+20 These are the descendants of Ham, according to their families and their languages, in their lands, and in their nations.
+
+21 And to Shem, the father of all the children of Eber, the older brother of Japheth, children were also born.
+
+22 The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram.
+
+23 And the sons of Aram: Uz, Hul, Gether, and Mash.
+
+24 And Arphaxad fathered Shelah, and Shelah fathered Eber.
+
+25 And to Eber two sons were born. The name of the one was Peleg, for in his days the earth was divided, and the name of his brother was Joktan.
+
+26 And Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah, 27 Hadoram, Uzal, Diklah, 28 Obal, Abimael, Sheba, 29 Ophir, Havilah, and Jobab. All these were the sons of Joktan.
+
+30 And their dwelling place extended from Mesha in the direction of Sephar to the hill country of the east. 31 These are the sons of Shem, according to their families, according to their languages, in their lands, and according to their nations.
+
+32 These are the families of the sons of Noah, according to their generations and in their nations. And from these the nations spread abroad on the earth after the flood.
+
+Genesis 11:1-9 (LEB)
+
+1 Now the whole earth had one language and the same words.
+
+2 And as people migrated from the east they found a plain in the land of Shinar and settled there. 3 And they said to each other, “Come, let us make bricks and burn them thoroughly.” And they had brick for stone and they had tar for mortar.
+
+4 And they said, “Come, let us build ourselves a city and a tower whose top reaches to the heavens. And let us make a name for ourselves, lest we be scattered over the face of the whole earth.”
+
+5 Then Yahweh came down to see the city and the tower that humankind was building. 6 And Yahweh said, “Behold, they are one people with one language, and this is only the beginning of what they will do. So now nothing that they intend to do will be impossible for them. 7 Come, let us go down and confuse their language there, so that they will not understand each other’s language.”
+
+8 So Yahweh scattered them from there over the face of the whole earth, and they stopped building the city. 9 Therefore its name was called Babel, for there Yahweh confused the language of the whole earth, and there Yahweh scattered them over the face of the whole earth.
+
 
 == The New Testament reading is from: Matthew 4:23-25, Matthew 5:1-20
 
-Matthew 4:23-25
-Matthew 5:1-20
+Matthew 4:23-25 (LEB)
+
+23 And he went around through all of Galilee, teaching in their synagogues and proclaiming the good news of the kingdom and healing every disease and every sickness among the people.
+24 And a report about him went out throughout Syria, and they brought to him all those who were sick with various diseases and afflicted by torments, demon-possessed and epileptics and paralytics, and he healed them.
+
+25 And large crowds followed him from Galilee, Decapolis, Jerusalem, Judea, and from the other side of the Jordan.
+
+Matthew 5:1-20 (LEB)
+
+1 Now when he saw the crowds, he went up the mountain and after he sat down, his disciples approached him.
+
+2 And opening his mouth he began to teach them, saying,
+
+3 “Blessed are the poor in spirit, because theirs is the kingdom of heaven.
+
+4 Blessed are the ones who mourn, because they will be comforted.
+
+5 Blessed are the meek, because they will inherit the earth.
+
+6 Blessed are the ones who hunger and thirst for righteousness, because they will be satisfied.
+
+7 Blessed are the merciful, because they will be shown mercy.
+
+8 Blessed are the pure in heart, because they will see God.
+
+9 Blessed are the peacemakers, because they will be called sons of God.
+
+10 Blessed are those who are persecuted because of righteousness, because theirs is the kingdom of heaven.
+
+11 Blessed are you when they insult you and persecute you and say all kinds of evil things against you, lying on account of me.
+
+12 Rejoice and be glad, because your reward is great in heaven, for in the same way they persecuted the prophets before you.
+
+13 “You are the salt of the earth. But if salt becomes tasteless, by what will it be made salty? It is good for nothing any longer except to be thrown outside and trampled under foot by people.
+
+14 You are the light of the world. A city located on top of a hill cannot be hidden, 15 nor do they light a lamp and place it under a basket, but on a lampstand, and it shines on all those in the house. 16 In the same way let your light shine before people, so that they can see your good works and glorify your Father who is in heaven.
+
+17 “Do not think that I have come to destroy the law or the prophets. I have not come to destroy them but to fulfill them. 18 For truly I say to you, until heaven and earth pass away, not one tiny letter or one stroke of a letter will pass away from the law until all takes place. 19 Therefore whoever abolishes one of the least of these commandments and teaches people to do so will be called least in the kingdom of heaven, but whoever keeps them and teaches them, this person will be called great in the kingdom of heaven.
+
+20 For I say to you that unless your righteousness greatly surpasses that of the scribes and Pharisees, you will never enter into the kingdom of heaven.
+
 
 == The Wisdom Literature reading is from: Psalm 4:1-8
 
-Psalm 4:1-8
+Psalm 4:1-8 (LEB)
+
+For the music director; with stringed instruments. A psalm of David.
+
+1: When I call, answer me, O God of my righteousness. In trouble deliver me. Be gracious to me and hear my prayer.
+
+2: O sons of man, how long will my honor be a disgrace? How long will you love vanity? How long will you seek lies?
+
+3: But know that Yahweh has set apart for himself the faithful one. Yahweh hears when I call to him.
+
+4: Be disturbed but do not sin. Commune in your heart on your bed and be silent.
+
+5: Offer correct sacrifices, and trust in Yahweh.
+
+6: Many are saying, “Who will show us something good?” Lift up over us the light of your face, O Yahweh.
+
+7: You have put gladness in my heart more than when their grain and their wine abound.
+
+8: In peace I will lie down and sleep at once, for you alone, O Yahweh, make me dwell safely.
+
 
 === This concludes the reading for day 5. Thank you for listening.
+
+
+Today's reading included: Genesis 9:18-29, Genesis 10, Genesis 11:1-9, Matthew 4:23-25, Matthew 5:1-20, Psalm 4:1-8
+
+Follow along at: https://biblia.com/books/leb/
+
+Send any questions to: scott@huttobible.com
+
+The full reading plan can be found at: https://www.biblica.com/resources/reading-plans/
+
+Partner financially with our ministry at: https://huttobible.churchcenter.com/giving/to/go-pastor-support
+
+Sign-up for ministry updates at: https://scott-purcell.epistle.org/subscribe
+
+The Lexham English Bible is used by permission. Copyright 2012 Logos Bible Software. Lexham is a registered trademark of Logos Bible Software.
+
+Our music is Be The Hero by Pumpupthemind from the Free Music Archive (https://freemusicarchive.org/music/pumpupthemind/single/be-the-hero/) and is licensed under a Creative Commons Attribution 4.0 International License.
+
+The Lexham English Bible is used by permission. Copyright 2012 Logos Bible Software. Lexham is a registered trademark of Logos Bible Software.

@@ -3,7 +3,7 @@
 // Take a look at the file `BIAY_Style.typ`
 // to customize this template and discover how it works.
 #show: project.with(
-  title: "Bible In A Year"
+  title: "Bible In A Year - Day 4"
 )
 
 = This is the reading for day 4
@@ -12,16 +12,176 @@ If your reading is aligned with the calendar year, this is for January 04
 
 == The Old Testament reading is from: Genesis 7, Genesis 8, Genesis 9:1-17
 
-Genesis 7
-Genesis 8
-Genesis 9:1-17
+Genesis 7 (LEB)
+
+1 Then Yahweh said to Noah, “Go—you and all your household—into the ark, for I have seen you are righteous before me in this generation.
+
+2 From all the clean animals you must take for yourself seven pairs, a male and its mate.
+
+And from the animals that are not clean you must take two, a male and its mate, 3 as well as from the birds of heaven seven pairs, male and female, to keep their kind alive on the face of the earth.
+
+4 For within seven days I will send rain upon the earth for forty days and forty nights. And I will blot out all the living creatures that I have made from upon the face of the ground.”
+
+5 And Noah did according to all that Yahweh commanded him.
+
+6 Noah was six hundred years old when the flood waters came upon the earth.
+7 And Noah and his sons and his wife, and the wives of his sons with him, went into the ark because of the waters of the flood.
+
+8 Of clean animals, and of animals which are not clean, and of the birds, and everything that creeps upon the ground, 9 two of each went to Noah, into the ark, male and female, as God had commanded Noah.
+
+10 And it happened that after seven days the waters of the flood came over the earth. 11 In the six hundredth year of the life of Noah, in the second month, on the seventeenth day of the month—on that day all the springs of the great deep were split open, and the windows of heaven were opened. 12 And the rain came upon the earth forty days and forty nights.
+
+13 On this same day, Noah, Shem, Ham, and Japheth, the sons of Noah, and the wife of Noah and the three wives of his sons with them, went into the ark, 14 they and all the living creatures according to their kind, and all the domesticated animals according to their kind, and all the creatures that creep upon the earth according to their kind, all the birds according to their kind, every winged creature. 15 And they came to Noah to the ark, two of each, from every living thing in which was the breath of life. 16 And those that came, male and female, of every living thing, came as God had commanded him.
+And Yahweh shut the door behind him.
+
+17 And the flood came forty days and forty nights upon the earth. And the waters increased, and lifted the ark, and it rose up from the earth.
+
+18 And the waters prevailed and increased greatly upon the earth. And the ark went upon the surface of the waters.
+
+19 And the waters prevailed overwhelmingly upon the earth, and they covered all the high mountains which were under the entire heaven.
+
+20 The waters swelled fifteen cubits above the mountains, covering them.
+
+21 And every living thing that moved on the earth perished—the birds, and the domesticated animals, and the wild animals, and everything that swarmed on the earth, and all humankind. 22 Everything in whose nostrils was the breath of life, among all that was on dry land, died. 23 And he blotted out every living thing upon the surface of the ground, from humankind, to animals, to creeping things, and to the birds of heaven; they were blotted out from the earth. Only Noah and those who were with him in the ark remained.
+
+24 And the waters prevailed over the earth one hundred and fifty days.
+
+Genesis 8 (LEB)
+
+1 And God remembered Noah and all the wild animals, and all the domesticated animals that were with him in the ark.
+
+And God caused a wind to blow over the earth, and the waters subsided. 2 And the fountains of the deep and the windows of the heavens were closed, and the rain from the heavens was restrained.
+
+3 And the waters receded from the earth gradually, and the waters abated at the end of one hundred and fifty days. 4 And the ark came to rest in the seventh month, on the seventeenth day of the month, on the mountains of Ararat.
+
+5 And the waters continued to recede to the tenth month; in the tenth month, on the first of the month, the tops of the mountains appeared.
+
+6 And it happened that at the end of forty days Noah opened the window of the ark that he had made. 7 And he sent out a raven; it went to and fro until the waters were dried up from upon the earth.
+
+8 And he sent out a dove to see whether the waters had subsided from upon the ground. 9 But the dove did not find a resting place for the sole of her foot, and she returned to him into the ark, for the waters were still on the face of the earth. And he stretched out his hand and took her, and brought her to himself into the ark.
+
+10 And he waited another seven days, and again he sent out the dove from the ark. 11 And the dove came to him in the evening, and behold, a freshly-picked olive tree leaf was in her mouth. And Noah knew that the waters had subsided from upon the earth.
+
+12 And he waited seven more days, and he sent out the dove. But it did not return again to him.
+
+13 And it happened that, in the six hundred and first year, in the first month, on the first day of the month, the waters dried up from upon the earth. And Noah removed the covering of the ark and looked. And behold, the face of the ground was dried up.
+
+14 And in the second month, on the twenty-seventh day of the month, the earth was dry.
+
+15 And God spoke to Noah, saying: 16 “Go out from the ark, you and your wife, and your sons, and your sons’ wives with you. 17 Bring out with you all the living things which are with you, from all the living creatures—birds, and animals, and everything that creeps on the earth, and let them swarm on the earth and be fruitful and multiply on the earth.”
+
+18 So Noah went out, with his sons and his wife, and the wives of his sons with him. 19 Every animal, every creeping thing, and every bird, and everything that moves upon the earth, according to its families, went out from the ark.
+
+20 And Noah built an altar to Yahweh, and he took from all the clean animals and from all the clean birds, and offered burnt offerings on the altar.
+
+21 And Yahweh smelled the soothing fragrance, and Yahweh said to himself, “Never again will I curse the ground for the sake of humankind, because the inclination of the heart of humankind is evil from his youth. Nor will I ever again destroy all life as I have done. 22 As long as the earth endures, seed and harvest, cold and heat, summer and winter, day and night will not cease.
+
+Genesis 9:1-17 (LEB)
+
+1 And God blessed Noah and his sons, and said to them, “Be fruitful and multiply, and fill the earth.
+
+2 And fear of you and dread of you shall be upon every animal of the earth, and on every bird of heaven, and on everything that moves upon the ground, and on all the fish of the sea. Into your hand they shall be given. 3 Every moving thing that lives shall be for you as food. As I gave the green plants to you, I have now given you everything.
+
+4 Only you shall not eat raw flesh with blood in it. 5 And your lifeblood I will require; from every animal I will require it. And from the hand of humankind, from the hand of each man to his brother I will require the life of humankind.
+
+6 “As for the one shedding the blood of humankind, by humankind his blood shall be shed, for God made humankind in his own image.
+
+7 “And you, be fruitful and multiply, swarm on the earth and multiply in it.”
+
+8 And God said to Noah and to his sons with him, 9 “As for me, behold, I am establishing my covenant with you and with your seed after you, 10 and with every living creature that is with you—the birds, the animals, and every animal of the earth with you, from all that came out of the ark to all the animals of the earth. 11 I am establishing my covenant with you, that never again will all flesh be cut off by the waters of a flood, nor will there ever be a flood that destroys the earth.”
+
+12 And God said, “This is the sign of the covenant that I am making between me and you, and between every living creature that is with you for future generations. 13 My bow I have set in the clouds, and it shall be for a sign of the covenant between me and between the earth. 14 And when I make clouds appear over the earth the bow shall be seen in the clouds. 15 Then I will remember my covenant that is between me and you, and between every living creature, with all flesh. And the waters of a flood will never again cause the destruction of all flesh. 16 The bow shall be in the clouds, and I will see it, so as to remember the everlasting covenant between God and between every living creature, with all flesh that is upon the earth.” 17 And God said to Noah, “This is the sign of the covenant which I am establishing between me and all flesh that is upon the earth.
+
 
 == The New Testament reading is from: Matthew 4:1-22
 
-Matthew 4:1-22
+Matthew 4:1-22 (LEB)
+
+1 Then Jesus was led up into the wilderness by the Spirit to be tempted by the devil, 2 and after he had fasted forty days and forty nights, then he was hungry.
+
+3 And the tempter approached and said to him, “If you are the Son of God, order that these stones become bread.”
+
+4 But he answered and said, “It is written, ‘Man will not live on bread alone, but on every word that comes out of the mouth of God.”
+
+5 Then the devil took him to the holy city and placed him on the highest point of the temple 6 and said to him, “If you are the Son of God, throw yourself down! For it is written, ‘He will command his angels concerning you,’ and ‘On their hands they will lift you up, lest you strike your foot against a stone.’ ”
+
+7 Jesus said to him, “On the other hand it is written, ‘You are not to put the Lord your God to the test.’ ”
+
+8 Again the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory, 9 and he said to him, “I will give to you all these things, if you will fall down and worship me.”
+
+10 Then Jesus said to him, “Go away, Satan, for it is written, ‘You shall worship the Lord your God and serve only him.’ ”
+
+11 Then the devil left him, and behold, angels came and began ministering to him.
+
+12 Now when he heard that John had been arrested, he withdrew into Galilee. 13 And leaving Nazareth, he went and lived in Capernaum by the sea, in the region of Zebulun and Naphtali, 14 in order that what was spoken by the prophet Isaiah would be fulfilled, who said,
+
+15 “Land of Zebulun and land of Naphtali,
+
+toward the sea, on the other side of the Jordan,
+
+Galilee of the Gentiles—
+
+16 the people who sit in darkness
+
+have seen a great light,
+
+and the ones who sit in the land and shadow of death,
+
+a light has dawned on them.”
+
+17 From that time on, Jesus began to preach and to say, “Repent, because the kingdom of heaven is near.”
+
+18 Now as he was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew, throwing a casting net into the sea (for they were fishermen).
+
+19 And he said to them, “Follow me and I will make you fishers of people.” 20 And immediately they left their nets and followed him.
+
+21 And going on from there, he saw two other brothers, James the son of Zebedee and his brother John, in the boat with their father Zebedee, mending their nets, and he called them. 22 And immediately they left the boat and their father and followed him.
+
 
 == The Wisdom Literature reading is from: Proverbs 1:1-7
 
-Proverbs 1:1-7
+Proverbs 1:1-7 (LEB)
+
+1 Proverbs of Solomon, son of David, king of Israel:
+
+2 To know wisdom and instruction,
+
+to understand sayings of understanding,
+
+3 to gain insightful instruction,
+
+righteousness and justice and equity,
+
+4 to give shrewdness to the simple,
+
+knowledge and purpose to the young,
+
+5 may the wise hear and increase learning,
+
+and the one who understands gain direction,
+
+6 to understand a proverb and an expression,
+
+words of wisdom and their riddles.
+
+7 Fear of Yahweh is the beginning of knowledge;
+
+wisdom and instruction, fools despise.
+
 
 === This concludes the reading for day 4. Thank you for listening.
+
+
+Today's reading included: Genesis 7, Genesis 8, Genesis 9:1-17, Matthew 4:1-22, Proverbs 1:1-7
+
+Follow along at: https://biblia.com/books/leb/
+
+Send any questions to: scott@huttobible.com
+
+The full reading plan can be found at: https://www.biblica.com/resources/reading-plans/
+
+Partner financially with our ministry at: https://huttobible.churchcenter.com/giving/to/go-pastor-support
+
+Sign-up for ministry updates at: https://scott-purcell.epistle.org/subscribe
+
+Our music is Be The Hero by Pumpupthemind from the Free Music Archive (https://freemusicarchive.org/music/pumpupthemind/single/be-the-hero/) and is licensed under a Creative Commons Attribution 4.0 International License.

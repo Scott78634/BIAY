@@ -3,7 +3,7 @@
 // Take a look at the file `BIAY_Style.typ`
 // to customize this template and discover how it works.
 #show: project.with(
-  title: "Bible In A Year"
+  title: "Bible In A Year - Day 1"
 )
 
 = This is the reading for day 1
@@ -187,3 +187,76 @@ nor sinners in the congregation of the righteous;
 
 
 === This concludes the reading for day 1. Thank you for listening.
+
+=== Episode Notes
+
+Today's reading included: Genesis 1, Genesis 2:1-17, Matthew 1:1-25, and Psalm 1:1-6
+
+Follow along at: https://biblia.com/books/leb/
+
+The full reading plan can be found at: https://www.biblica.com/resources/reading-plans/
+
+Partner financially with our ministry at: https://huttobible.churchcenter.com/giving/to/go-pastor-support
+
+Sign-up for ministry updates at: https://scott-purcell.epistle.org/subscribe
+
+
+
+Our music is Be The Hero by Pumpupthemind from the Free Music Archive (https://freemusicarchive.org/music/pumpupthemind/single/be-the-hero/) and is licensed under a Creative Commons Attribution 4.0 International License.
+
+Day 1: Genesis 1, Genesis 2:1-17,Matthew 1:1-25,Psalm 1:1-6
+
+Today's reading included: Genesis 1, Genesis 2:1-17,Matthew 1:1-25,Psalm 1:1-6
+
+Follow along at: https://biblia.com/books/leb/
+
+The full reading plan can be found at: https://www.biblica.com/resources/reading-plans/
+
+Partner financially with our ministry at: https://huttobible.churchcenter.com/giving/to/go-pastor-support
+
+Sign-up for ministry updates at: https://scott-purcell.epistle.org/subscribe
+
+Our music is Be The Hero by Pumpupthemind from the Free Music Archive (https://freemusicarchive.org/music/pumpupthemind/single/be-the-hero/) and is licensed under a Creative Commons Attribution 4.0 International License.
+
+
+Primary Keywords (use in title/subtitle if possible, and definitely in the keyword field):
+
+bible in a year
+daily bible reading
+read bible in a year
+bible podcast
+daily bible podcast
+bible reading plan
+through the bible in a year
+
+Secondary Keywords (great for the keyword field to capture related searches):
+
+scripture reading
+daily devotional
+bible audio
+read the bible daily
+one year bible
+chronological bible reading
+lexham english bible
+old testament new testament psalms
+christian podcast
+bible study podcast
+daily scripture
+whole bible podcast
+
+Long-Tail Keywords (lower competition, higher intent—very effective):
+
+bible in a year podcast 2026
+daily bible reading podcast
+read through the bible in a year podcast
+audio bible in a year
+one year bible reading plan podcast
+daily old and new testament readings
+
+
+Copied from: Introducing Daily Bible Reading Podcast - Grok - <https://grok.com/c/3fc7c6cd-d8da-4e27-8751-1f09cae4eadd?rid=01b94b4f-1e5d-4537-af41-1fb7efd15d3c>
+
+
+
+
+
