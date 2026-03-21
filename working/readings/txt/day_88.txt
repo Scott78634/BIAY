@@ -9,7 +9,7 @@
 = This is the reading for day 88
 
 If your reading is aligned with the calendar year in a non-leap-year, this is for March 29
---- or, in a leap-year, for March 30
+--- or, in a leap-year, for March 28
 
 == The Old Testament reading is from: Numbers 26, Numbers 27:1-11
 

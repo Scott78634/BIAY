@@ -9,7 +9,7 @@
 = This is the reading for day 105
 
 If your reading is aligned with the calendar year in a non-leap-year, this is for April 15
---- or, in a leap-year, for April 16
+--- or, in a leap-year, for April 14
 
 == The Old Testament reading is from: Deuteronomy 23, Deuteronomy 24, Deuteronomy 25:1-19
 

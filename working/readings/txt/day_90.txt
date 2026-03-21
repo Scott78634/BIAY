@@ -9,7 +9,7 @@
 = This is the reading for day 90
 
 If your reading is aligned with the calendar year in a non-leap-year, this is for March 31
---- or, in a leap-year, for April 01
+--- or, in a leap-year, for Marchh 30
 
 == The Old Testament reading is from: Numbers 29:12-40, Numbers 30, Numbers 31:1-24
 

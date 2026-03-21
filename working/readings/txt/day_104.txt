@@ -9,7 +9,7 @@
 = This is the reading for day 104
 
 If your reading is aligned with the calendar year in a non-leap-year, this is for April 14
---- or, in a leap-year, for April 15
+--- or, in a leap-year, for April 13
 
 == The Old Testament reading is from: Deuteronomy 21, Deuteronomy 22
 

@@ -1,4 +1,4 @@
-#import "BIAY_Style.typ": *
+ #import "BIAY_Style.typ": *
 
 // Take a look at the file `BIAY_Style.typ`
 // to customize this template and discover how it works.

@@ -9,7 +9,7 @@
 = This is the reading for day 101
 
 If your reading is aligned with the calendar year in a non-leap-year, this is for April 11
---- or, in a leap-year, for April 12
+--- or, in a leap-year, for April 10
 
 == The Old Testament reading is from: Deuteronomy 15, Deuteronomy 16:1-20
 

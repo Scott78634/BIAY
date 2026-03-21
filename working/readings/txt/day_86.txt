@@ -9,7 +9,7 @@
 = This is the reading for day 86
 
 If your reading is aligned with the calendar year in a non-leap-year, this is for March 27
---- or, in a leap-year, for March 28
+--- or, in a leap-year, for March 26
 
 == The Old Testament reading is from: Numbers 22:21-41, Numbers 23:1-26
 

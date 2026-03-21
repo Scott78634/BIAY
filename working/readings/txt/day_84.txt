@@ -9,7 +9,7 @@
 = This is the reading for day 84
 
 If your reading is aligned with the calendar year in a non-leap-year, this is for March 25
---- or, in a leap-year, for March 26
+--- or, in a leap-year, for March 24
 
 == The Old Testament reading is from: Numbers 19, Numbers 20, Numbers 21:1-3
 
