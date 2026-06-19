@@ -1,4 +1,4 @@
-#import "BIAY_Style.typ": *
+ #import "BIAY_Style.typ": *
 
 // Take a look at the file `BIAY_Style.typ`
 // to customize this template and discover how it works.
@@ -9,7 +9,7 @@
 = This is the reading for day 153
 
 If your reading is aligned with the calendar year in a non-leap-year, this is for June 02
---- or, in a leap-year, for June 03
+--- or, in a leap-year, for June 01
 
 == The Old Testament reading is from: 2 Samuel 2:8-32, 2 Samuel 3:1-21
 
@@ -25,3 +25,35 @@ John 21:1-25
 Psalm 69:1-12
 
 === This concludes the reading for day 153. Thank you for listening.
+
+Broken Kingdoms and Restored Disciples: The House of David & Peter’s Restoration (Day 153)
+
+How does God pick up the pieces when things are fractured and broken? Today on Day 153, we navigate the messy reality of a divided nation and the beautiful, tender heart of a forgiving Savior. In 2 Samuel, a bitter civil war erupts between the house of David and the house of Saul. We watch political maneuvering, tragic battlefield skirmishes, and changing loyalties as human beings try to orchestrate their own power structures.
+
+In magnificent contrast, the Gospel of John concludes on the shores of the Sea of Galilee. Having failed and drifted back to their old fishing nets, Peter and the disciples are met by the risen Jesus. Over a warm charcoal fire, Jesus doesn't lecture or condemn Peter for his three denials; instead, He beautifully restores him with three invitations to "Feed my sheep," demonstrating that our failures never have the final say when our King is doing the restoring.
+
+Today’s Scripture:
+📖 2 Samuel 2:8–3:21 – Saul's general, Abner, sets up Saul's son Ish-bosheth as a rival king over Israel, sparking a long civil war. A deadly tournament at the pool of Gibeon turns into a bloody battle where Joab's fleet-footed brother, Asahel, is relentlessly killed by Abner. As the house of David grows stronger and the house of Saul grows weaker, Abner insults Ish-bosheth, defects from his camp, and makes a pact to turn all of Israel over to David.
+
+📖 John 21:1–25 – Seven disciples go fishing but catch nothing all night. At dawn, Jesus stands on the shore and tells them to cast on the right side, yielding a miraculous catch of 153 fish. Recognizing Jesus, Peter plunges into the water. On shore, Jesus provides a breakfast of bread and fish, then three times asks Peter, "Do you love me?"—perfectly redeeming Peter's three denials and commissioning him to shepherd the Church.
+
+📖 Psalm 69:1–12 – A deeply emotional messianic psalm of David, crying out from the miry depths: "Save me, O God! For the waters have come up to my neck." The psalmist endures insults and alienation for his devotion, declaring that zeal for God's house has consumed him.
+
+RESOURCES & READ-ALONG
+📺 Watch on YouTube: https://www.youtube.com/playlist?list=PLYKi8-_5xHGL_nFAZOthHtZhcb4CqW4ZF
+📖 Follow the Text (LEB): https://biblia.com/books/leb/
+🗓️ Download the Full Plan: https://www.biblica.com/resources/reading-plans/
+
+CONNECT & SUPPORT
+📧 Questions? Reach out to Scott: scott@huttobible.com
+🎁 Partner with our Ministry: https://huttobible.churchcenter.com/giving/to/go-pastor-support
+📩 Get Ministry Updates: https://scott-purcell.epistle.org/subscribe
+
+CREDITS & LEGAL
+The Lexham English Bible is used by permission. Copyright 2012 Logos Bible Software. Lexham is a registered trademark of Logos Bible Software.
+Music: "Be The Hero" by Pumpupthemind via Free Music Archive (CC BY 4.0).
+
+Keywords:
+2 Samuel 2, 2 Samuel 3, John 21, Psalm 69, Civil war in Israel, Abner and Joab, Pool of Gibeon, Ish-bosheth, Miraculous catch of fish, 153 large fish, Peter restored, Feed my sheep, charcoal fire, daily devotional, audio bible.
+
+

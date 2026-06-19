@@ -9,7 +9,7 @@
 = This is the reading for day 171
 
 If your reading is aligned with the calendar year in a non-leap-year, this is for June 20
---- or, in a leap-year, for June 21
+--- or, in a leap-year, for June 19
 
 == The Old Testament reading is from: 1 Kings 7:23-51, 1 Kings 8:1-21
 
@@ -21,8 +21,8 @@ If your reading is aligned with the calendar year in a non-leap-year, this is fo
 Acts 13:42-52
 Acts 14:1-7
 
-== The Wisdom Literature reading is from: Psalm 76:1-12
+== The Wisdom Literature reading is from: Psalm 76
 
-Psalm 76:1-12
+Psalm 76
 
 === This concludes the reading for day 171. Thank you for listening.

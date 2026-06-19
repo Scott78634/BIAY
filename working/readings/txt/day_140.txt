@@ -2,14 +2,14 @@
 
 // Take a look at the file `BIAY_Style.typ`
 // to customize this template and discover how it works.
-#show: project.with(
+#show: project.with( 
   title: "Bible In A Year"
 )
 
 = This is the reading for day 140
 
 If your reading is aligned with the calendar year in a non-leap-year, this is for May 20
---- or, in a leap-year, for May 21
+--- or, in a leap-year, for May 19
 
 == The Old Testament reading is from: 1 Samuel 5, 1 Samuel 6, 1 Samuel 7
 
@@ -27,3 +27,35 @@ John 12:1-11
 Proverbs 12:18-27
 
 === This concludes the reading for day 140. Thank you for listening.
+
+
+Fallen Idols and Extravagant Worship: 1 Samuel 5–7 and John 11–12 (Day 140)
+
+What happens when the presence of God invades our spaces? Today in 1 Samuel, the Philistines discover that capturing the Ark of the Covenant is a terrifying curse, not a victory. From the temple of Dagon to the streets of pagan cities, God establishes His unshared authority, forcing the Philistines to return the Ark on a driverless cart. In the Gospel of John, the resurrection of Lazarus sparks two opposing reactions. While the religious elite cynically plot to murder Jesus to preserve their political power, Mary of Bethany responds with beautiful, costly devotion, pouring out an inheritance worth a year’s wages to anoint the feet of her King.
+
+Today’s Scripture:
+
+📖 1 Samuel 5–7 – The captured Ark is placed in the temple of the idol Dagon, only for the statue to be found face-down and shattered. Plagues break out across Philistia until they return the Ark to Israel on a new cart pulled by milk cows. Later, Samuel calls Israel to put away their foreign gods at Mizpah, leading to a massive victory over the Philistines and the setting up of the Ebenezer stone—the stone of help.
+
+📖 John 11:45–12:11 – The Sanhedrin panics over Jesus' popularity, and Caiaphas unwittingly prophesies that Jesus must die for the nation. Six days before Passover, Jesus dines with Lazarus. Mary opens an expensive jar of pure nard to anoint Jesus' feet, drawing sharp criticism from Judas Iscariot, while the chief priests decide they must kill Lazarus too because his story is convincing so many to believe.
+
+📖 Proverbs 12:18–27 – Solomon contrasts the impact of our words and work ethic: "There is one whose rash words are like sword thrusts, but the tongue of the wise brings healing." He adds that "anxiety in a man's heart weighs him down, but a good word makes him glad."
+
+RESOURCES & READ-ALONG
+📺 Watch on YouTube: https://www.youtube.com/playlist?list=PLYKi8-_5xHGL_nFAZOthHtZhcb4CqW4ZF
+📖 Follow the Text (LEB): https://biblia.com/books/leb/
+🗓️ Download the Full Plan: https://www.biblica.com/resources/reading-plans/
+
+CONNECT & SUPPORT
+📧 Questions? Reach out to Scott: scott@huttobible.com
+🎁 Partner with our Ministry: https://huttobible.churchcenter.com/giving/to/go-pastor-support
+📩 Get Ministry Updates: https://scott-purcell.epistle.org/subscribe
+
+CREDITS & LEGAL
+The Lexham English Bible is used by permission. Copyright 2012 Logos Bible Software. Lexham is a registered trademark of Logos Bible Software.
+Music: "Be The Hero" by Pumpupthemind via Free Music Archive (CC BY 4.0).
+
+Keywords:
+bible in a year, daily bible reading, 1 Samuel 5, 1 Samuel 6, 1 Samuel 7, John 11, John 12, Proverbs 12, Dagon falls, Ark of the Covenant, Ebenezer stone, Mary anoints Jesus, Alabaster jar of pure nard, Caiaphas prophecy, daily devotional, audio bible.
+
+
