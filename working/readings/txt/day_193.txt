@@ -9,7 +9,7 @@
 = This is the reading for day 193
 
 If your reading is aligned with the calendar year in a non-leap-year, this is for July 12
---- or, in a leap-year, for July 13
+--- or, in a leap-year, for July 11
 
 == The Old Testament reading is from: 2 Kings 23, 2 Kings 24:1-7
 
@@ -25,3 +25,8 @@ Romans 1:1-17
 Psalm 84:1-7
 
 === This concludes the reading for day 193. Thank you for listening.
+
+
+
+
+

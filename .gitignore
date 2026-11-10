@@ -1,2 +1,16 @@
 *.kate-swp
 *.aup-*
+# BIAY: keep text and small artwork, never version large media
+*.mp4
+*.wav
+*.aup3
+*.aup3-shm
+*.aup3-wal
+*.mov
+*.mkv
+working/Audio/
+working/*/Audio/
+working/*/Video/
+working/*/Images/
+working/Bonus Episodes/
+

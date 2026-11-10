@@ -3,7 +3,7 @@
 // Take a look at the file `BIAY_Style.typ`
 // to customize this template and discover how it works.
 #show: project.with(
-  title: "Bible In A Year"
+  title: "Bible In A Year" 
 )
 
 = This is the reading for day 159
